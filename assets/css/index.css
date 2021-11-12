@@ -1,0 +1,271 @@
+.logo {
+    width: 78.76px;
+height: 114.86px;
+margin-left: 89.87px;
+margin-top: 6px;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.fondo-header {
+height: 133.06px;
+width: 1454px;
+left: 0px;
+top: 0px;
+border-radius: 0px;
+background: #FFFFFF;
+
+
+}
+
+.titulo-1 {
+width: 568.47px;
+height: 44.35px;
+margin-left: 549.18px;
+margin-top: 64.98px;
+    
+font-family: Rubik Mono One;
+font-style: normal;
+font-weight: normal;
+font-size: 26px;
+line-height: 32px;
+    
+color: #000000;
+}
+.titulo-2 {
+    width: 200px;
+height: 60px;
+margin-left: 80px;
+margin-top: 59px;
+margin-bottom: 11px;
+
+font-family: Rubik Mono One;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 10px;
+
+}
+
+
+.bloque-card {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 1px;
+    border-radius: 20px;
+
+
+}
+
+.cartas {
+    margin-bottom: 70px;
+    margin-left: 30px;
+    margin-right:30px;
+    background: #FFFFFF;
+    border-radius: 30px;
+
+}
+
+.card-1 {
+    border-radius: 20px;
+    color: #FFFFFF;
+}
+
+.card-2 {
+    border-radius: 20px;
+    color: #889EF0
+}
+
+.card-3 {
+    border-radius: 20px;
+    color: #425EC9;
+}
+
+.card-4 {
+    border-radius: 20px;
+    color: #CCD2E9;
+}
+
+.card-5 {
+    border-radius: 20px;
+    color: #647ACE;
+}
+
+.card-6 {
+    border-radius: 20px;
+    color: #2641A8;
+
+}
+
+
+.tipografia-1{
+font-family: Rubik Mono One;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 25px;
+letter-spacing: 0px;
+text-align: left;
+
+}
+
+.tipografia-2{
+    font-family: Rubik Mono One;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 17px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.tipografia-3 {
+    font-family: Rubik Mono One;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 25px;
+letter-spacing: 0em;
+text-align: left;
+
+
+}
+
+.tipografia-4 { 
+    font-family: Rubik Mono One;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 17px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.tipografia-5 {
+    font-family: Rubik Mono One;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 17px;
+letter-spacing: 0em;
+text-align: left;
+color: #FFFFFF;
+
+
+
+
+}
+
+.tipografia-6 {
+    font-family: Rubik Mono One;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 17px;
+letter-spacing: 0em;
+text-align: left;
+color: #FFFFFF;
+
+}
+
+.tipografia-7 {
+font-family: Rubik Mono One;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 25px;
+letter-spacing: 0em;
+text-align: left;
+color: #000000;
+}
+
+.tipografia-8 {
+font-family: Rubik Mono One;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 17px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.tipografia-9 {
+font-family: Rubik Mono One;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 25px;
+letter-spacing: 0em;
+text-align: left;
+color: #FFFFFF;
+
+}
+
+.tipografia-10 {
+    font-family: Rubik Mono One;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 17px;
+letter-spacing: 0em;
+text-align: left;
+color: #FFFFFF;
+}
+
+.tipografia-11 {
+    font-family: Rubik Mono One;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 25px;
+letter-spacing: 0em;
+text-align: left;
+color: #FFFFFF;
+}
+
+.tipografia-12 {
+    font-family: Rubik Mono One;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 17px;
+letter-spacing: 0em;
+text-align: left;
+color: #FFFFFF;
+}
+
+
+
+
+.pie {
+    text-align: center; 
+    margin-bottom:20px;
+    margin-top: 10,9px;
+    font-family:Dongle ;
+    font-size: 40px;
+}
+.fondo-1 {
+    background: #FFFFFF;
+}
+.fondo-2 {
+    background: #889EF0;
+}
+
+.fondo-3 {
+    background: #425EC9;
+}
+.fondo-4 {
+    background: #CCD2E9;
+}
+.fondo-5 {
+    background: #647ACE;
+}
+
+.fondo-6 {
+    background: #2641A8;
+}
+
+.imagen-fondo {
+    background-image: url(../img/opcion-fondo.png);
+}
